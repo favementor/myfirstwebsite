@@ -1,0 +1,18 @@
+.hide{
+    display: none;
+}
+
+
+footer, h1{
+    text-align: center;
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+
+
+/* .fave{
+    background-color: papayawhip;
+} */
